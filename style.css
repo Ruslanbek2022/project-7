@@ -1,0 +1,40 @@
+body{
+    background-image:url(https://cdn3.vectorstock.com/i/1000x1000/20/97/fire-burning-yin-yang-with-black-background-vector-10182097.jpg);
+    background-size:top;
+    background-position:top;
+    color:#e60935;
+    font-family: "Sofia", serif;
+    font-style: italic;
+  }
+  
+  li {
+    display:inline;
+  }
+  
+  button{
+    color:#e60935;
+    padding:11px;
+    width: 80px;
+     font-family: "Sofia", serif;
+    font-style: italic;
+    }
+  
+  .note{
+    color:#19e0e3;
+  }
+  .bachelor1{
+   position:relative;
+   left:111px;
+  }
+  
+  .phone1{
+   
+    position:relative;
+    left:151px;
+  }
+  
+  .date1{
+    
+    position:relative;
+    left:175px;
+  }
